@@ -8,12 +8,6 @@ This is a simple CRUD (Create, Read, Update, Delete) API built using Flask.
 - Update records
 - Delete records
 
-## Installation
-
-### Prerequisites
-- Python 3.8+
-- Virtual environment (optional but recommended)
-
 ### API Endpoints
 
 #### Create a new record
