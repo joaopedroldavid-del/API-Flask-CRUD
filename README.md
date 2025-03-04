@@ -32,7 +32,8 @@ This is a simple CRUD (Create, Read, Update, Delete) API built using Flask.
   ```json
   {
     "title": "Updated Title",
-    "description": "Updated Description"
+    "description": "Updated Description",
+    "completed": "Updated status"
   }
   ```
 
