@@ -1,6 +1,6 @@
 # API Flask CRUD
 
-This is a simple CRUD (Create, Read, Update, Delete) API built using Flask.
+This is a simple CRUD (Create, Read, Update, Delete) API built using Flask. With a test session to respond to requests.
 
 ## Features
 - Create new records
